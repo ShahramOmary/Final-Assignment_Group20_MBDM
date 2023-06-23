@@ -12,13 +12,12 @@ This Github page contains python scripts, notebooks, and other files used for th
 - Gweneira van Koot
 
 ## Base Case Analysis:
-**Base Case Analysis.ipynb** contains the analysis of the base case using 4000 scenarios. 
+**Base Case Analysis.ipynb** contains the analysis of the base case using 4000 scenarios. The base case containing no changes in the given policy levers.
 
 ## Sensitivity analysis:
-SensitivityAnalysis_WholeIJsselArea.ipynb = Sensitivity analysis on the relationship between different policies and the overall KPI's.
-SensitivityAnalysis_SeperateDikeRings.ipynb = Sensitivity analysis on the relationships between different policies and the KPI's per dike ring. 
+**SensitivityAnalysis_WholeIJsselArea.ipynb** contains the sensitivity analysis on the relationship between different policies and the overall KPI's.
+**SensitivityAnalysis_SeperateDikeRings.ipynb** contains the ensitivity analysis on the relationships between different policies and the KPI's per dike ring. 
 
 ## Multi-Objective MORDM
-TRYING_MORDM2.ipynb = Multi Scenario MORDM
-Scenario analysis_0.5.ipynb = Scenario discovery
+**TRYING_MORDM2.ipynb** contains the  Multi Scenario MORDM and the **Scenario analysis_0.5.ipynb** contains the scenario discovery
 
